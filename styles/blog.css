@@ -1,0 +1,28 @@
+nav > ul > li {
+    display: inline;
+    margin-right: 15px;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+nav li > a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+main > article > header > figure {
+    text-align: center;
+    padding: 0%;
+
+}
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+section{
+    text-align: center;
+}
